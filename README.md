@@ -15,9 +15,9 @@ Rewrote the game logic, earlier it was possible to get some configurations which
 
 [LIVE DEMO](https://hbd-mar-vell.000webhostapp.com/LightUP/index.html)
 
-### Welcome screen
+### Game Screen (hard mode)
 
-[![Image from Gyazo](https://gyazo.com/1cc03ab9a80480dea173acd621847073)
+![](https://i.gyazo.com/de6994ce44010a7aa496f3d906a4eeea.png)
 
 ### License
 [MIT](https://choosealicense.com/licenses/mit/)
